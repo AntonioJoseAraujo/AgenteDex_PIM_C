@@ -138,9 +138,9 @@ O projeto foi feito **sem `struct`**: todos os dados são guardados em vetores e
 
 ## 👥 Autores
 
+- Antônio José Araújo
 - Wesley Alexandre dos Santos Amancio
 - Rafael
-- Tony
 
 ---
 
